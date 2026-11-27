@@ -1,0 +1,2 @@
+Hello from GitHub MCP Server test!
+Line 2 for PR review comment testing.
