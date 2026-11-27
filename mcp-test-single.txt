@@ -1,2 +1,2 @@
 Hello from GitHub MCP Server test!
-Line 2 for PR review comment testing.
+Line 2 updated via create_or_update_file (update mode).
